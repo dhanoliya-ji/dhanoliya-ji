@@ -1,33 +1,30 @@
-<!--
-README for GitHub Profile
-Tailored for Gajendra Dhanoliya | IIT Delhi | SDE + AI/ML
--->
+<!-- README for GitHub Profile -->
+<!-- Gajendra Dhanoliya | IIT Delhi | SDE + AI/ML -->
 
-<h1 align="center">Hi 👋, I'm Gajendra Dhanoliya</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:2563eb,100:06b6d4&text=Gajendra%20Dhanoliya&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20IIT%20Delhi&descAlignY=58" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Recent+Graduate+from+IIT+Delhi;Software+Engineer+Intern;Backend+%2B+AI%2FML+Developer;Competitive+Programmer;Building+Scalable+Systems+and+LLM+Apps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=IIT+Delhi+Graduate;Software+Engineer;Backend+Developer;AI%2FML+Engineer;Competitive+Programmer;Building+Scalable+Systems+and+LLM+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IIT%20Delhi-Electrical%20Engineering-1a73e8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-Codeforces%20Specialist-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CodeChef-4%20Star-orange?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dhanoliya-ji&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CodeChef-4★-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT%20Delhi-2026-success?style=for-the-badge" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 Recent graduate from **IIT Delhi** with a background in **Electrical Engineering**
+- 🎓 Recent graduate from **IIT Delhi** in **Electrical Engineering**
 - 💻 Interested in **Software Development**, **Backend Engineering**, **Distributed Systems**, and **AI/ML**
 - 🧠 Currently building projects around **RAG**, **LLMs**, **NLP**, and **scalable APIs**
 - ⚡ Strong problem-solving background with **1000+ DSA problems solved**
-- 🏆 Active competitive programmer and systems/project builder
+- 🏆 Competitive programmer and systems/project builder
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🌐 Connect with Me
 
@@ -49,86 +46,71 @@ Tailored for Gajendra Dhanoliya | IIT Delhi | SDE + AI/ML
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="mailto:gajendradhanoliya01@gmail.com">gajendradhanoliya01@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/gajendradhanoliya-dhanoliya-813345359/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/dhanoliya-ji">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://codeforces.com/profile/G.Dhanoliya">Codeforces</a> &nbsp;|&nbsp;
+  <a href="https://www.codechef.com/users/gajenx7">CodeChef</a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,postgres,redis,fastapi,docker,linux,git,github,vscode,opencv" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,numpy,pandas,matplotlib,flask,sqlite,mysql" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🚀 Featured Projects
 
-### 1) Online Coding Judge
-**Python, FastAPI, PostgreSQL, Docker**  
-- Online platform for coding problems, submissions, automated evaluation, and contests  
-- Built scalable REST APIs for problem management and contest workflows  
-- Added secure code execution, leaderboard generation, and performance analytics  
+| Project | Stack | What it shows |
+|---|---|---|
+| 🧠 **Enterprise Document Intelligence Assistant** | RAG, LLMs, FastAPI, PostgreSQL, Redis, Docker | Semantic search, OCR, embeddings, retrieval, reranking |
+| 🎙️ **Meeting Intelligence Assistant** | Whisper, LLMs, FastAPI, PostgreSQL, Docker | Speech-to-text, summarization, action items, search |
+| ⚡ **Online Coding Judge** | Python, FastAPI, PostgreSQL, Docker | REST APIs, secure execution, contest workflows |
+| 🌐 **Distributed Key-Value Database** | C++, TCP Sockets, Multithreading, SQL | Concurrency, persistence, replication, fault tolerance |
 
-### 2) Distributed Key-Value Database
-**C++, TCP Sockets, Multithreading, SQL**  
-- Distributed in-memory database supporting GET, PUT, DELETE with O(1) lookups  
-- Multi-threaded request handling for concurrent clients  
-- Added persistence, replication simulation, and recovery logic  
-
-### 3) Enterprise Document Intelligence Assistant
-**Python, FastAPI, PostgreSQL, Redis, Docker, RAG, LLMs**  
-- RAG-based QA system over large enterprise documents  
-- OCR, chunking, embeddings, hybrid retrieval, and reranking pipeline  
-- Redis caching and Docker-based deployment for scalable access  
-
-### 4) Meeting Intelligence Assistant
-**Python, FastAPI, Whisper, PostgreSQL, Docker, LLMs**  
-- Converts meeting audio into transcripts, summaries, and action items  
-- Speech-to-text + LLM-based processing pipeline  
-- Searchable knowledge retrieval with scalable backend services  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanoliya-ji&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 🏆 Competitive Programming
 
-- **Codeforces Specialist**
-- **CodeChef 4 Star**
+- **Codeforces Specialist** (1500+)
+- **CodeChef 4 Star** (1800+)
 - **1000+ problems solved**
-- Strong focus on **DSA, Graphs, DP, Trees, Greedy, and System Design**
+- Strong in **Graphs, DP, Trees, Greedy, Binary Search, and System Design**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
-## 🎨 Dynamic / Attractive Extras
+## 📊 GitHub Analytics
 
-### Snake animation
-Add this if you want the contribution snake effect:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-```md
-![snake gif](https://github.com/dhanoliya-ji/dhanoliya-ji/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanoliya-ji&theme=tokyo-night&hide_border=true" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+## 📌 Currently Building
+
+- **AI / LLM applications** with RAG and retrieval pipelines
+- **Backend systems** with FastAPI, PostgreSQL, Redis, and Docker
+- **Distributed systems** and concurrency-heavy services
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+## ✨ Closing Note
+
+<p align="center">
+  <b>Code is like humor. When you have to explain it, it's bad</b>
+</p>
