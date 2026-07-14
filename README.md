@@ -1,227 +1,185 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  Gajendra Dhanoliya · IIT Delhi · Software + AI/ML Engineer      -->
+<!--  Gajendra Dhanoliya — minimalist, bold, Jomor-inspired profile   -->
+<!--  Theme-aware: tuned variants for GitHub light & dark mode        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!-- ░░░ HERO BANNER ░░░ -->
-<a href="https://github.com/dhanoliya-ji">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0f172a,35:1e3a8a,70:2563eb,100:06b6d4&text=Gajendra%20Dhanoliya&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20IIT%20Delhi&descSize=20&descAlignY=56" alt="banner"/>
-</a>
-
-<!-- ░░░ TYPING HEADLINE ░░░ -->
-<p align="center">
-  <a href="https://github.com/dhanoliya-ji">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=940&height=60&lines=IIT+Delhi+%7C+Electrical+Engineering;Software+Engineer+%26+Backend+Developer;AI%2FML+%7C+RAG+%7C+LLM+Applications;Distributed+Systems+%26+Scalable+APIs;Codeforces+Specialist+%7C+1000%2B+DSA+Solved" alt="typing"/>
-  </a>
-</p>
-
-<!-- ░░░ FLOATING BADGES ░░░ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanoliya-ji&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="views"/>
-  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="cf"/></a>
-  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="cc"/></a>
-  <img src="https://img.shields.io/badge/IIT%20Delhi-2026-success?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="iitd"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🚀 About Me
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Developer.gif" alt="coding"/>
-
-```yaml
-name:        Gajendra Dhanoliya
-role:        Software Engineer · AI/ML Engineer
-education:   IIT Delhi — Electrical Engineering (2026)
-focus:       [ Backend, Distributed Systems, RAG, LLMs, NLP ]
-building:    Scalable APIs & production-grade LLM apps
-solving:     1000+ DSA problems · Codeforces Specialist
-motto:       "Code is like humor — explain it and it's bad."
-```
-
-- 🎓 **IIT Delhi** — Electrical Engineering
-- 💻 Passionate about **Backend Engineering**, **Distributed Systems** & **AI/ML**
-- 🧠 Currently shipping projects with **RAG · LLMs · NLP · scalable APIs**
-- ⚡ Strong CS fundamentals — **1000+ DSA problems** solved
-- 🏆 Active **competitive programmer** and systems builder
-
-<br clear="right"/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 🌐 Connect With Me
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <a href="mailto:gajendradhanoliya01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://www.linkedin.com/in/gajendradhanoliya-dhanoliya-813345359/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="https://github.com/dhanoliya-ji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="cf"/></a>
-  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="cc"/></a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## ⚙️ Tech Arsenal
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Backend · Data · AI/ML**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**DevOps · Tooling**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,fastapi,flask,postgres,redis,docker,linux,git,github,vscode,opencv,numpy,pandas&perline=8" alt="skillicons"/>
+<!-- ░░░ BIG BOLD HERO STATEMENT (theme-aware) ░░░ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0f172a&text=I%20build%20systems%20that%20scale.&fontSize=54&desc=%E2%80%94%20and%20AI%20that%20actually%20ships.&descSize=20&descAlignY=68&fontAlignY=42&height=200#gh-light-mode-only" alt="hero"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f8fafc&text=I%20build%20systems%20that%20scale.&fontSize=54&desc=%E2%80%94%20and%20AI%20that%20actually%20ships.&descSize=20&descAlignY=68&fontAlignY=42&height=200#gh-dark-mode-only" alt="hero"/>
+</p>
 
-</div>
+<!-- ░░░ MINIMAL TOP NAV ░░░ -->
+<p align="center">
+  <a href="https://github.com/dhanoliya-ji"><b>WORK</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gajendradhanoliya-dhanoliya-813345359/"><b>ABOUT</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/G.Dhanoliya"><b>PLAY</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:gajendradhanoliya01@gmail.com"><b>SAY HI</b></a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<br/>
+
+<!-- ░░░ TYPING SUB-HEADLINE ░░░ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=720&height=44&lines=Software+Engineer.+AI%2FML+Engineer.;IIT+Delhi.+Electrical+Engineering.;Backend%2C+distributed+systems%2C+LLMs.;All+good+stuff.+Sorta." alt="subhead"/>
+</p>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## 🛠️ Featured Projects
+
+<h2 align="center">Hey — I'm Gajendra 👋</h2>
+
+<p align="center" width="100%">
+  <i>I help ideas turn into systems that don't fall over.<br/>
+  Backend, distributed infra, and AI that ships to production —<br/>
+  built at IIT Delhi, sharpened on 1000+ competitive problems.</i>
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table align="center">
+<h2 align="center">SELECTED WORK</h2>
+
+<br/>
+
+<!-- Light-mode cards -->
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Enterprise Document Intelligence</h3>
-      <p>RAG assistant with semantic search, OCR, embeddings, retrieval &amp; reranking over enterprise docs.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-1e3a8a?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LLMs-2563eb?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      </p>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:eef2ff,100:e0e7ff&height=150&text=Document%20Intelligence&fontColor=1e3a8a&fontSize=26&desc=RAG%20%C2%B7%20OCR%20%C2%B7%20embeddings%20%C2%B7%20reranking&descSize=14&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="p1"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ Meeting Intelligence Assistant</h3>
-      <p>Speech-to-text with Whisper, LLM summarization, auto action-items &amp; searchable transcripts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square"/>
-        <img src="https://img.shields.io/badge/LLMs-2563eb?style=flat-square"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ecfeff,100:cffafe&height=150&text=Meeting%20Intelligence&fontColor=0e7490&fontSize=26&desc=Whisper%20%C2%B7%20LLM%20summaries%20%C2%B7%20action%20items&descSize=14&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="p2"/>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Online Coding Judge</h3>
-      <p>Secure sandboxed code execution, REST APIs and full contest workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:f0fdf4,100:dcfce7&height=150&text=Online%20Coding%20Judge&fontColor=166534&fontSize=26&desc=sandboxed%20exec%20%C2%B7%20contests%20%C2%B7%20REST&descSize=14&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="p3"/>
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Distributed Key-Value Store</h3>
-      <p>Concurrent TCP server with persistence, replication &amp; fault tolerance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TCP%20Sockets-333?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Multithreading-555?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:fff7ed,100:ffedd5&height=150&text=Distributed%20KV%20Store&fontColor=9a3412&fontSize=26&desc=C%2B%2B%20%C2%B7%20replication%20%C2%B7%20fault%20tolerance&descSize=14&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="p4"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Dark-mode cards -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:312e81&height=150&text=Document%20Intelligence&fontColor=c7d2fe&fontSize=26&desc=RAG%20%C2%B7%20OCR%20%C2%B7%20embeddings%20%C2%B7%20reranking&descSize=14&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="p1"/>
+      </a>
+    </td>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:083344,100:155e75&height=150&text=Meeting%20Intelligence&fontColor=a5f3fc&fontSize=26&desc=Whisper%20%C2%B7%20LLM%20summaries%20%C2%B7%20action%20items&descSize=14&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="p2"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:052e16,100:14532d&height=150&text=Online%20Coding%20Judge&fontColor=bbf7d0&fontSize=26&desc=sandboxed%20exec%20%C2%B7%20contests%20%C2%B7%20REST&descSize=14&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="p3"/>
+      </a>
+    </td>
+    <td align="center" width="380">
+      <a href="https://github.com/dhanoliya-ji?tab=repositories">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:431407,100:7c2d12&height=150&text=Distributed%20KV%20Store&fontColor=fed7aa&fontSize=26&desc=C%2B%2B%20%C2%B7%20replication%20%C2%B7%20fault%20tolerance&descSize=14&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="p4"/>
+      </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github.com/dhanoliya-ji?tab=repositories"><img src="https://img.shields.io/badge/See%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="repos"/></a>
+  <a href="https://github.com/dhanoliya-ji?tab=repositories"><b>See all projects →</b></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## 🏆 Competitive Programming
+
+<h2 align="center">WHAT I WORK WITH</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,fastapi,flask,postgres,redis,docker,linux,git,opencv,numpy,pandas&perline=13" alt="stack"/>
+</p>
+
+<p align="center">
+  <sub>C++ · Python · FastAPI · PostgreSQL · Redis · Docker · RAG · LLMs · NLP · Distributed Systems</sub>
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">WHEN I'M NOT SHIPPING, I'M SOLVING</h2>
+
 <p align="center">
-  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-Specialist%20(1500%2B)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85%20(1800%2B)-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/DSA%20Solved-1000%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-1000%2B%20solved-16a34a?style=flat-square&logo=leetcode&logoColor=white"/>
 </p>
 
 <p align="center">
-  <b>💪 Strong in</b> &nbsp;·&nbsp; Graphs &nbsp;·&nbsp; Dynamic Programming &nbsp;·&nbsp; Trees &nbsp;·&nbsp; Greedy &nbsp;·&nbsp; Binary Search &nbsp;·&nbsp; System Design
+  <sub>Graphs · Dynamic Programming · Trees · Greedy · Binary Search · System Design</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-## 📊 GitHub Analytics
+
+<h2 align="center">THE NUMBERS</h2>
+
+<!-- Light stats -->
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=graywhite&icon_color=2563eb&title_color=0f172a&text_color=475569&bg_color=ffffff#gh-light-mode-only" alt="stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&langs_count=8&theme=graywhite&title_color=0f172a&text_color=475569&bg_color=ffffff#gh-light-mode-only" alt="langs"/>
+</p>
+
+<!-- Dark stats -->
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight&hide_title=false#gh-dark-mode-only" alt="stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&langs_count=8&theme=tokyonight#gh-dark-mode-only" alt="langs"/>
+</p>
+
+<!-- Activity graph, theme-aware -->
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanoliya-ji&hide_border=true&area=true&bg_color=ffffff&color=0f172a&line=2563eb&point=06b6d4&title_color=0f172a#gh-light-mode-only" alt="activity"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanoliya-ji&hide_border=true&area=true&theme=tokyo-night#gh-dark-mode-only" alt="activity"/>
+</p>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+<h2 align="center">LET'S MAKE SOMETHING</h2>
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs"/>
+  <i>Got a problem worth solving? I'm always up for good stuff.</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanoliya-ji&theme=tokyonight&hide_border=true" alt="streak"/>
+  <a href="mailto:gajendradhanoliya01@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gajendradhanoliya-dhanoliya-813345359/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/dhanoliya-ji"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<br/>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanoliya-ji&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity"/>
+  <sub>Made with too much coffee and a soft spot for clean systems. ☕</sub>
 </p>
-
-<!-- ░░░ FLOATING TROPHIES ░░░ -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhanoliya-ji&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
-</p>
-
-<!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-## 📌 Currently Building
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-- 🤖 **AI / LLM applications** — RAG pipelines & retrieval systems
-- ⚙️ **Backend systems** — FastAPI, PostgreSQL, Redis, Docker
-- 🌐 **Distributed systems** — concurrency-heavy, fault-tolerant services
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<!-- ░░░ FOOTER ░░░ -->
-<p align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
-</p>
-
-<p align="center">
-  <a href="mailto:gajendradhanoliya01@gmail.com">📧 Let's build something great together</a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:06b6d4,50:2563eb,100:0f172a"/>
