@@ -240,9 +240,9 @@
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE"><b>ONLINE CODING JUDGE</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-11</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/RouteOS"><b>Routeos</b></a></td><td>Intelligent logistics & fleet optimization platform — multi-vehicle route optimization…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-13</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE"><b>ONLINE CODING JUDGE</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-12</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/sentinelgraph"><b>SentinelGraph</b></a> · <a href="https://sentinelgraph.vercel.app">live</a></td><td>Graph-based fraud detection with clickable evidence for every flag</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-08</sub></td></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/RouteOS"><b>Routeos</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-07-19</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/Enterprise-Document-Intelligence-Assistant"><b>Document Intelligence</b></a></td><td>Document Q&A over RAG — OCR, embeddings and reranking</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-07-14</sub></td></tr>
 </table>
 <!-- RECENT-PROJECTS:END -->
