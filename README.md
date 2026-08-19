@@ -240,6 +240,7 @@
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/hr-cold-email-automation"><b>Hr Cold Email Automation</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-18</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/RouteOS"><b>Routeos</b></a></td><td>Intelligent logistics & fleet optimization platform — multi-vehicle route optimization…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-13</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE"><b>ONLINE CODING JUDGE</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-12</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/sentinelgraph"><b>SentinelGraph</b></a> · <a href="https://sentinelgraph.vercel.app">live</a></td><td>Graph-based fraud detection with clickable evidence for every flag</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-08</sub></td></tr>
