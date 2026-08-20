@@ -29,7 +29,11 @@ EXCLUDE = {"dhanoliya-ji"}
 # title-casing the slug, which is fine for well-named repos.
 NAME_OVERRIDES = {
     "sentinelgraph": "SentinelGraph",
+    # Kept alongside the current slugs so a rename doesn't break the table.
+    "RouteOS": "RouteOS",
     "RouteOS-Intelligent-Logistics-Fleet-Optimization-Platform": "RouteOS",
+    "ONLINE-CODING-JUDGE": "Online Coding Judge",
+    "hr-cold-email-automation": "Cold Email Automation",
     "Distributed-Key-Value-Database-in-C-": "Distributed KV Store",
     "dag-workflow-designer": "DAG Workflow Designer",
     "Enterprise-Document-Intelligence-Assistant": "Document Intelligence",
@@ -48,6 +52,14 @@ NAME_OVERRIDES = {
 # keeps the table readable until then.
 DESC_FALLBACK = {
     "sentinelgraph": "Graph-based fraud detection with clickable evidence for every flag",
+    "ONLINE-CODING-JUDGE":
+        "Submit, sandbox, evaluate against test cases, run contests, rank a leaderboard",
+    "online-coding-judge":
+        "Submit, sandbox, evaluate against test cases, run contests, rank a leaderboard",
+    "hr-cold-email-automation":
+        "Recruiter outreach that personalises per role, sends on a schedule and tracks replies",
+    "RouteOS":
+        "Capacity- and time-window-aware fleet routing with live re-optimisation",
     "RouteOS-Intelligent-Logistics-Fleet-Optimization-Platform":
         "Capacity- and time-window-aware fleet routing with live re-optimisation",
     "Distributed-Key-Value-Database-in-C-":
