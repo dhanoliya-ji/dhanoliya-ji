@@ -30,7 +30,7 @@ THEMES = {
         "node_alt": "#0ea5e9",
         "alert": "#e11d48",
         "mesh_near": "#4f46e5",
-        "mesh_far": "#c7d2fe",
+        "mesh_far": "#a5b4fc",
     },
     "dark": {
         "edge": "#4c5a72",

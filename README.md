@@ -104,16 +104,16 @@
 
 ```mermaid
 flowchart LR
-    A[transactions<br/>accounts · devices] --> B[ingest<br/>FastAPI]
-    B --> C[(graph store<br/>openCypher)]
-    C --> D{detectors}
-    D -->|cycles| E[fraud rings]
-    D -->|fan-in → fan-out| F[mule funnels]
-    D -->|shared device| G[fraud farms]
-    E --> H[scored alert<br/>+ evidence subgraph]
+    A["transactions<br/>accounts · devices"] --> B["ingest<br/>FastAPI"]
+    B --> C[("graph store<br/>openCypher")]
+    C --> D{"detectors"}
+    D -->|"cycles"| E["fraud rings"]
+    D -->|"fan-in then fan-out"| F["mule funnels"]
+    D -->|"shared device"| G["fraud farms"]
+    E --> H["scored alert<br/>+ evidence subgraph"]
     F --> H
     G --> H
-    H --> I[React UI<br/>click any flag, see why]
+    H --> I["React UI<br/>click any flag, see why"]
 ```
 
 <p align="center">
