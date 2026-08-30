@@ -355,18 +355,31 @@ scrolling. Deployed free on GitHub Pages.
 
 <h2 align="center">◈ &nbsp; T H E &nbsp; N U M B E R S &nbsp; ◈</h2>
 
+<!-- github-readme-stats.vercel.app is used everywhere but its shared instance
+     sits at 503 for long stretches, which leaves four broken images on the
+     page. profile-summary-cards and streak-stats.demolab.com both answer. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=8b5cf6&text_color=94a3b8#gh-dark-mode-only" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=94a3b8&langs_count=8#gh-dark-mode-only" alt="Top languages"/>
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=7c3aed&text_color=475569#gh-light-mode-only" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=475569&langs_count=8#gh-light-mode-only" alt="Top languages"/>
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Profile summary"/>
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Profile summary"/>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b#gh-dark-mode-only" alt="Streak"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=0891b2&fire=db2777&currStreakLabel=0891b2&sideLabels=475569&dates=94a3b8#gh-light-mode-only" alt="Streak"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Repos per language"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Most committed language"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Repos per language"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Most committed language"/>
+</p>
+
+<p align="center">
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Stats"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanoliya-ji&theme=github_dark&utcOffset=5.5#gh-dark-mode-only" alt="Productive time"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Stats"/>
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanoliya-ji&theme=github&utcOffset=5.5#gh-light-mode-only" alt="Productive time"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b#gh-dark-mode-only" alt="Streak"/>
+  <img height="150" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=0891b2&fire=db2777&currStreakLabel=0891b2&sideLabels=475569&dates=94a3b8#gh-light-mode-only" alt="Streak"/>
 </p>
 
 <!-- ░░ a year of commits, chewed through by a snake ░░ -->
