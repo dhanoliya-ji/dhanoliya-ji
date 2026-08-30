@@ -1,382 +1,398 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  Gajendra Dhanoliya — minimalist, bold profile                   -->
-<!--  Theme-aware: tuned variants for GitHub light & dark mode        -->
-<!--                                                                  -->
-<!--  Generated pieces — edit the generator, not the output:          -->
-<!--   · RECENT WORK block ........ scripts/update_readme.py          -->
-<!--   · assets/*-3d-*.svg ....... scripts/gen_3d_assets.py          -->
-<!--   · assets/snake-*.svg ....... .github/workflows/visuals.yml     -->
-<!--   · profile-3d-contrib/ ...... .github/workflows/visuals.yml     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--  Gajendra Dhanoliya · profile README                                    -->
+<!--                                                                         -->
+<!--  Generated pieces — edit the generator, not the output:                 -->
+<!--   · assets/neon-*.svg ........ scripts/gen_neon_assets.py               -->
+<!--   · assets/*-3d-*.svg ........ scripts/gen_3d_assets.py                 -->
+<!--   · RECENTLY PUSHED block .... scripts/update_readme.py (daily)         -->
+<!--   · assets/snake-*.svg ....... .github/workflows/visuals.yml            -->
+<!--   · profile-3d-contrib/ ...... .github/workflows/visuals.yml            -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<!-- ░░ HERO ░░ the wordmark, filled by a gradient that never stops moving ░░ -->
+<p align="center">
+  <img width="100%" src="assets/neon-hero-dark.svg#gh-dark-mode-only" alt="Gajendra Dhanoliya — backend, systems, applied AI"/>
+  <img width="100%" src="assets/neon-hero-light.svg#gh-light-mode-only" alt="Gajendra Dhanoliya — backend, systems, applied AI"/>
+</p>
+
+<!-- ░░ CONTACT, right at the top ░░ -->
+<p align="center">
+  <a href="https://dhanoliya-ji.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-22d3ee?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117" alt="Portfolio"/></a>
+  <a href="mailto:gajendradhanoliya01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-f472b6?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/></a>
+  <a href="tel:+919109485566"><img src="https://img.shields.io/badge/+91_9109485566-c3f53c?style=for-the-badge&logo=whatsapp&logoColor=0d1117" alt="Phone"/></a>
+  <a href="https://www.linkedin.com/in/gajendra-dhanoliya-813345359/"><img src="https://img.shields.io/badge/LINKEDIN-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dhanoliya-ji"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces_·_Specialist-0d1117?style=flat-square&logo=codeforces&logoColor=22d3ee" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef_·_4★-0d1117?style=flat-square&logo=codechef&logoColor=c3f53c" alt="CodeChef"/></a>
+  <a href="https://leetcode.com/u/dhanoliya/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=f472b6" alt="LeetCode"/></a>
+</p>
+
+<p align="center">
+  <a href="https://dhanoliya-ji.github.io"><b>dhanoliya-ji.github.io</b></a>
+</p>
+
+<!-- ░░ the one line that changes ░░ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=2026+IIT+Delhi+graduate%2C+B.Tech+Electrical+Engineering;I+build+full-stack+apps+and+applied+AI+systems;Route+optimizers.+RAG+pipelines.+Code+sandboxes.;Open+to+SDE+and+AI%2FML+roles" alt="What I do"/>
+</p>
+
+<img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
+<img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
 
 <br/>
 
-<!-- ░░░ BIG BOLD HERO STATEMENT (theme-aware) ░░░ -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0f172a&text=I%20build%20systems%20that%20scale.&fontSize=54&desc=%E2%80%94%20and%20AI%20that%20actually%20ships.&descSize=20&descAlignY=68&fontAlignY=42&height=200#gh-light-mode-only" alt="hero"/>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f8fafc&text=I%20build%20systems%20that%20scale.&fontSize=54&desc=%E2%80%94%20and%20AI%20that%20actually%20ships.&descSize=20&descAlignY=68&fontAlignY=42&height=200#gh-dark-mode-only" alt="hero"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ░░░ 3D: a transaction ring rotating in real perspective ░░░ -->
-<!-- Geometry is projected in Python and baked into SMIL keyframes, so it
-     animates on GitHub without a line of JavaScript. -->
-<p align="center">
-  <img width="94%" src="assets/ring-3d-light.svg#gh-light-mode-only" alt="A ring of accounts and transfers, rotating in 3D"/>
-  <img width="94%" src="assets/ring-3d-dark.svg#gh-dark-mode-only" alt="A ring of accounts and transfers, rotating in 3D"/>
-</p>
-
-<!-- ░░░ MINIMAL TOP NAV ░░░ -->
-<p align="center">
-  <a href="#selected-work"><b>WORK</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#how-it-fits-together"><b>HOW IT WORKS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#what-i-work-with"><b>STACK</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gajendradhanoliya-dhanoliya-813345359/"><b>ABOUT</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/G.Dhanoliya"><b>PLAY</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:gajendradhanoliya01@gmail.com"><b>SAY HI</b></a>
-</p>
-
-<br/>
-
-<!-- ░░░ TYPING SUB-HEADLINE ░░░ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=760&height=44&lines=Software+Engineer.+AI%2FML+Engineer.;IIT+Delhi.+Electrical+Engineering.;Backend%2C+distributed+systems%2C+graphs%2C+LLMs.;1000%2B+problems+solved.+Still+solving.;I+ship+things+that+stay+up." alt="subhead"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Hey — I'm Gajendra 👋</h2>
-
-<p align="center" width="100%">
-  <i>I help ideas turn into systems that don't fall over.<br/>
-  Backend, distributed infra, and AI that ships to production —<br/>
-  built at IIT Delhi, sharpened on 1000+ competitive problems.</i>
-</p>
+<h2 align="center">◈ &nbsp; W H A T &nbsp; I &nbsp; B U I L D &nbsp; ◈</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/graphs-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/distributed%20systems-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/optimisation-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/retrieval%20%26%20RAG-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/realtime-1f2937?style=flat-square"/>
+  <i>I like problems where correctness is measurable rather than a matter of taste.<br/>
+  A solver either beats the baseline or it doesn't. A sandbox either contains untrusted<br/>
+  code or it doesn't. A retrieval pipeline either cites the right page or it made something up.</i>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░ 01 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/01-22d3ee?style=flat-square&label=&labelColor=22d3ee" alt=""/>
+  &nbsp;RouteOS &nbsp;<sub><i>fleet route optimization</i></sub>
+</h3>
 
-<h2 align="center">🟢 LIVE RIGHT NOW</h2>
+<table>
+<tr><td width="62%" valign="top">
 
-<p align="center">
-  <sub>Three of these are deployed and open. No sign-up — the demo accounts are below each one.</sub>
-</p>
+Multi-vehicle logistics optimizer solving the **capacitated VRP with time windows**
+in Google OR-Tools. Time windows, service durations and per-vehicle distance caps
+are modelled as constraint dimensions with priority-scaled drop penalties.
 
-<p align="center">
-  <a href="https://sentinelgraph.vercel.app">
-    <img width="86%" src="https://capsule-render.vercel.app/api?type=soft&color=0:f5f3ff,100:ddd6fe&height=170&text=SentinelGraph&fontColor=4c1d95&fontSize=42&desc=fraud%20detection%20that%20explains%20itself%20%C2%B7%20try%20it%20live&descSize=16&descAlignY=68&fontAlignY=42#gh-light-mode-only" alt="SentinelGraph"/>
-    <img width="86%" src="https://capsule-render.vercel.app/api?type=soft&color=0:2e1065,100:4c1d95&height=170&text=SentinelGraph&fontColor=ede9fe&fontSize=42&desc=fraud%20detection%20that%20explains%20itself%20%C2%B7%20try%20it%20live&descSize=16&descAlignY=68&fontAlignY=42#gh-dark-mode-only" alt="SentinelGraph"/>
-  </a>
-</p>
+Live vehicle simulation streams over **WebSockets** with traffic injection, and a
+**rolling-horizon re-optimizer** re-solves undelivered stops from a vehicle's current
+position. PostGIS proximity queries and Redis-cached analytics sit behind the dashboard.
 
-<p align="center">
-  <i>Fraud is never visible in one row. Ten accounts each sending $4,000 into one account<br/>
-  that wires 95% of it offshore is a mule funnel — a shape in the network, not a record.</i>
-</p>
+Runs on AWS EC2 in a VPC public subnet, every service in Docker Compose behind an
+auto-renewing TLS reverse proxy, hardened to 3 inbound ports.
 
-<p align="center">
-  <a href="https://sentinelgraph.vercel.app"><img src="https://img.shields.io/badge/▶%20Open%20the%20live%20app-7c3aed?style=for-the-badge&logoColor=white"/></a>
-  <a href="https://github.com/dhanoliya-ji/sentinelgraph"><img src="https://img.shields.io/badge/Source-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/dhanoliya-ji/sentinelgraph/blob/main/docs/walkthrough.md"><img src="https://img.shields.io/badge/Walkthrough-334155?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
-</p>
+</td><td width="38%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CognoDB-openCypher%20over%20Bolt-6366f1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/graph%20traversals-multi--hop-0ea5e9?style=flat-square"/>
-</p>
+**Cut fleet distance**
+### `20–35%`
+against a greedy nearest-neighbour baseline on identical order sets
 
-<br/>
+`375 km` vs `576 km` on 100 orders, 12 vehicles
+<br/>`100%` order assignment on 50–250 order benchmarks
 
-<!-- ░░░ the other two live deployments ░░░ -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="420">
-      <a href="https://routeos-frontend.onrender.com">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:eff6ff,100:dbeafe&height=140&text=RouteOS&fontColor=1e3a8a&fontSize=30&desc=plan%20a%20fleet%20%C2%B7%20break%20it%20with%20traffic%20%C2%B7%20watch%20it%20re-route&descSize=13&descAlignY=66&fontAlignY=40#gh-light-mode-only" alt="RouteOS live"/>
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:172554,100:1e3a8a&height=140&text=RouteOS&fontColor=dbeafe&fontSize=30&desc=plan%20a%20fleet%20%C2%B7%20break%20it%20with%20traffic%20%C2%B7%20watch%20it%20re-route&descSize=13&descAlignY=66&fontAlignY=40#gh-dark-mode-only" alt="RouteOS live"/>
-      </a>
-      <p>
-        <a href="https://routeos-frontend.onrender.com"><img src="https://img.shields.io/badge/▶%20Open%20the%20app-2563eb?style=for-the-badge&logoColor=white"/></a>
-        <a href="https://routeos-backend-h5x6.onrender.com/docs"><img src="https://img.shields.io/badge/API%20docs-0f172a?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-      </p>
-      <sub>One-click sign-in as <code>dispatcher@routeos.dev</code> · <code>dispatch12345</code></sub>
-    </td>
-    <td align="center" width="420">
-      <a href="https://crucible-web.onrender.com">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:f0fdf4,100:dcfce7&height=140&text=Crucible&fontColor=166534&fontSize=30&desc=submit%20code%20%C2%B7%20sandboxed%20judge%20%C2%B7%20live%20leaderboard&descSize=13&descAlignY=66&fontAlignY=40#gh-light-mode-only" alt="Crucible live"/>
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:052e16,100:14532d&height=140&text=Crucible&fontColor=bbf7d0&fontSize=30&desc=submit%20code%20%C2%B7%20sandboxed%20judge%20%C2%B7%20live%20leaderboard&descSize=13&descAlignY=66&fontAlignY=40#gh-dark-mode-only" alt="Crucible live"/>
-      </a>
-      <p>
-        <a href="https://crucible-web.onrender.com"><img src="https://img.shields.io/badge/▶%20Open%20the%20judge-16a34a?style=for-the-badge&logoColor=white"/></a>
-        <a href="https://online-coding-judge-7w5q.onrender.com/docs"><img src="https://img.shields.io/badge/API%20docs-0f172a?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-      </p>
-      <sub>Sign in as <code>demo@example.com</code> · <code>DemoPass123</code></sub>
-    </td>
-  </tr>
+</td></tr>
 </table>
 
-<p align="center">
-  <sub>⏱️ Both APIs run on a free tier that sleeps when idle — the first request can take up to a minute<br/>
-  to wake the container. The web apps are static and answer instantly.</sub>
+<p>
+  <a href="https://routeos-frontend.onrender.com"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-22d3ee?style=for-the-badge&logoColor=0d1117" alt="Live demo"/></a>
+  <a href="https://github.com/dhanoliya-ji/RouteOS"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-1a1f28?style=flat-square&logo=python&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/OR--Tools-1a1f28?style=flat-square&logo=google&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/FastAPI-1a1f28?style=flat-square&logo=fastapi&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/PostGIS-1a1f28?style=flat-square&logo=postgresql&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/Redis-1a1f28?style=flat-square&logo=redis&logoColor=22d3ee"/>
+  <img src="https://img.shields.io/badge/AWS-1a1f28?style=flat-square&logo=amazonwebservices&logoColor=22d3ee"/>
 </p>
 
 <br/>
 
-<!-- ░░░ 3D: RouteOS, in one picture — vans driving a plan across a ground plane ░░░ -->
-<p align="center">
-  <img width="86%" src="assets/fleet-3d-light.svg#gh-light-mode-only" alt="Vehicles driving optimised routes across a 3D ground plane"/>
-  <img width="86%" src="assets/fleet-3d-dark.svg#gh-dark-mode-only" alt="Vehicles driving optimised routes across a 3D ground plane"/>
-</p>
+<!-- ░░ 02 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/02-8b5cf6?style=flat-square&label=&labelColor=8b5cf6" alt=""/>
+  &nbsp;DocMinds &nbsp;<sub><i>document intelligence &amp; semantic search</i></sub>
+</h3>
 
-<p align="center">
-  <sub>Three vehicles, one depot, capacity and time windows respected. The plane recedes,<br/>
-  so a van further up the picture really is further away — it is smaller because the projection says so.</sub>
-</p>
+<table>
+<tr><td width="62%" valign="top">
 
-<br/>
+Multi-tenant **RAG platform** for enterprise documents. The upload service reads
+**19 file extensions** through PyMuPDF, python-docx, python-pptx, openpyxl and
+BeautifulSoup, opens ZIP archives and reads what is inside them, and routes scanned
+PDFs to **Tesseract OCR** when a page has under 100 characters.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Each chunk becomes a **384-dimensional** vector from `all-MiniLM-L6-v2` running on
+the server, stored with its page number in PostgreSQL behind a **pgvector HNSW**
+index so search stays fast as the corpus grows.
 
-<h2 align="center" id="how-it-fits-together">HOW IT FITS TOGETHER</h2>
+The question is embedded the same way, nearest chunks are found by cosine distance
+and dropped below a score floor, then **Llama 3.3 70B on Groq** answers only from
+those chunks and shows the page it used.
 
-<p align="center"><sub>The shape of SentinelGraph — and roughly how I build everything else.</sub></p>
+</td><td width="38%" valign="top">
 
-<!-- ░░░ 3D: the same architecture as isometric layers, requests falling through ░░░ -->
-<p align="center">
-  <img width="72%" src="assets/stack-3d-light.svg#gh-light-mode-only" alt="An isometric stack of services with requests falling through it"/>
-  <img width="72%" src="assets/stack-3d-dark.svg#gh-dark-mode-only" alt="An isometric stack of services with requests falling through it"/>
-</p>
+**Grounded, not guessed**
+### `page-level`
+citations on every answer
 
-```mermaid
-flowchart LR
-    A["transactions<br/>accounts · devices"] --> B["ingest<br/>FastAPI"]
-    B --> C[("graph store<br/>openCypher")]
-    C --> D{"detectors"}
-    D -->|"cycles"| E["fraud rings"]
-    D -->|"fan-in then fan-out"| F["mule funnels"]
-    D -->|"shared device"| G["fraud farms"]
-    E --> H["scored alert<br/>+ evidence subgraph"]
-    F --> H
-    G --> H
-    H --> I["React UI<br/>click any flag, see why"]
-```
+`19` file extensions ingested
+<br/>`384-d` local embeddings
+<br/>`HNSW` cosine index in pgvector
+<br/>Celery workers so uploads never block
 
-<p align="center">
-  <sub><b>The rule I keep:</b> every flag carries the subgraph that caused it. A score nobody can audit is a score nobody will act on.</sub>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center" id="selected-work">SELECTED WORK</h2>
-
-<br/>
-
-<!-- ░░░ Light-mode cards ░░░ -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/RouteOS">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:eff6ff,100:dbeafe&height=150&text=RouteOS&fontColor=1e3a8a&fontSize=28&desc=OR-Tools%20VRP%20%C2%B7%20PostGIS%20%C2%B7%20live%20re-routing&descSize=13&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="RouteOS"/>
-      </a>
-    </td>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/Enterprise-Document-Intelligence-Assistant">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:ecfeff,100:cffafe&height=150&text=Document%20Intelligence&fontColor=0e7490&fontSize=25&desc=RAG%20%C2%B7%20OCR%20%C2%B7%20embeddings%20%2B%20reranking&descSize=13&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="Document Intelligence"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:f0fdf4,100:dcfce7&height=150&text=Online%20Coding%20Judge&fontColor=166534&fontSize=26&desc=sandboxed%20exec%20%C2%B7%20contests%20%C2%B7%20JWT&descSize=13&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="Online Coding Judge"/>
-      </a>
-    </td>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/hr-cold-email-automation">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:fff7ed,100:ffedd5&height=150&text=Cold%20Email%20Automation&fontColor=9a3412&fontSize=25&desc=scrape%20%C2%B7%20personalise%20%C2%B7%20send%20%C2%B7%20track&descSize=13&descAlignY=64&fontAlignY=42#gh-light-mode-only" alt="Cold Email Automation"/>
-      </a>
-    </td>
-  </tr>
+</td></tr>
 </table>
 
-<!-- ░░░ Dark-mode cards ░░░ -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/RouteOS">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:172554,100:1e3a8a&height=150&text=RouteOS&fontColor=dbeafe&fontSize=28&desc=OR-Tools%20VRP%20%C2%B7%20PostGIS%20%C2%B7%20live%20re-routing&descSize=13&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="RouteOS"/>
-      </a>
-    </td>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/Enterprise-Document-Intelligence-Assistant">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:083344,100:155e75&height=150&text=Document%20Intelligence&fontColor=a5f3fc&fontSize=25&desc=RAG%20%C2%B7%20OCR%20%C2%B7%20embeddings%20%2B%20reranking&descSize=13&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="Document Intelligence"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:052e16,100:14532d&height=150&text=Online%20Coding%20Judge&fontColor=bbf7d0&fontSize=26&desc=sandboxed%20exec%20%C2%B7%20contests%20%C2%B7%20JWT&descSize=13&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="Online Coding Judge"/>
-      </a>
-    </td>
-    <td align="center" width="380">
-      <a href="https://github.com/dhanoliya-ji/hr-cold-email-automation">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:431407,100:7c2d12&height=150&text=Cold%20Email%20Automation&fontColor=fed7aa&fontSize=25&desc=scrape%20%C2%B7%20personalise%20%C2%B7%20send%20%C2%B7%20track&descSize=13&descAlignY=64&fontAlignY=42#gh-dark-mode-only" alt="Cold Email Automation"/>
-      </a>
-    </td>
-  </tr>
+<p>
+  <a href="https://github.com/dhanoliya-ji/DocMinds"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-1a1f28?style=flat-square&logo=python&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/FastAPI-1a1f28?style=flat-square&logo=fastapi&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/pgvector-1a1f28?style=flat-square&logo=postgresql&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Celery-1a1f28?style=flat-square&logo=celery&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Next.js-1a1f28?style=flat-square&logo=nextdotjs&logoColor=8b5cf6"/>
+  <img src="https://img.shields.io/badge/Groq-1a1f28?style=flat-square&logo=lightning&logoColor=8b5cf6"/>
+</p>
+
+<br/>
+
+<!-- ░░ 03 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/03-c3f53c?style=flat-square&label=&labelColor=c3f53c" alt=""/>
+  &nbsp;Online Coding Judge &nbsp;<sub><i>Crucible</i></sub>
+</h3>
+
+<table>
+<tr><td width="62%" valign="top">
+
+A full-stack competitive-programming judge. A user writes **Python, C++ or Java** in
+a React editor and submits to a FastAPI backend that verifies a **JWT**, loads the
+problem limits from PostgreSQL, and queues the code to run.
+
+Untrusted code executes inside a **fresh Docker container** with no network, a
+read-only filesystem, a non-root user, **128 MB** memory, **50% CPU** and a **2s**
+timeout. Each submission is replayed over sample and hidden tests and comes back as
+Accepted, Wrong Answer, Runtime Error or TLE, with the time and memory it used.
+
+**37 REST endpoints** across 7 areas cover auth, problems, test cases, submissions,
+contests and dashboards, so an admin can ship a problem with hidden tests while a
+user registers for a contest and watches a score-ranked leaderboard update live.
+
+</td><td width="38%" valign="top">
+
+**Contains untrusted code**
+### `no network`
+read-only FS · non-root · hard CPU, memory and wall-clock caps
+
+`37` REST endpoints
+<br/>`3` languages judged
+<br/>`88` tests passing in CI
+
+</td></tr>
 </table>
 
-<br/>
-
-<p align="center">
-  <b>Deployed and open:</b>
-  <a href="https://sentinelgraph.vercel.app">SentinelGraph</a> ·
-  <a href="https://routeos-frontend.onrender.com">RouteOS</a> ·
-  <a href="https://crucible-web.onrender.com">Crucible</a>
+<p>
+  <a href="https://crucible-web.onrender.com"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-c3f53c?style=for-the-badge&logoColor=0d1117" alt="Live demo"/></a>
+  <a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-1a1f28?style=flat-square&logo=python&logoColor=c3f53c"/>
+  <img src="https://img.shields.io/badge/FastAPI-1a1f28?style=flat-square&logo=fastapi&logoColor=c3f53c"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1f28?style=flat-square&logo=postgresql&logoColor=c3f53c"/>
+  <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=c3f53c"/>
+  <img src="https://img.shields.io/badge/Docker-1a1f28?style=flat-square&logo=docker&logoColor=c3f53c"/>
+  <img src="https://img.shields.io/badge/TypeScript-1a1f28?style=flat-square&logo=typescript&logoColor=c3f53c"/>
 </p>
 
 <br/>
 
-<!-- ░░░ EXPANDABLE: what each one actually is ░░░ -->
-<details align="center">
-<summary><b>↕︎ What each project actually does</b></summary>
-<br/>
+<!-- ░░ 04 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/04-f472b6?style=flat-square&label=&labelColor=f472b6" alt=""/>
+  &nbsp;SentinelGraph &nbsp;<sub><i>graph-based fraud detection</i></sub>
+</h3>
 
-| Project | The one-line version | Built with |
-|---|---|---|
-| **[SentinelGraph](https://github.com/dhanoliya-ji/sentinelgraph)** | Fraud detection over a graph — rings, mule funnels, shared-device fraud farms, each flag backed by clickable evidence | CognoDB · FastAPI · React |
-| **[RouteOS](https://github.com/dhanoliya-ji/RouteOS)** · **[live ↗](https://routeos-frontend.onrender.com)** | Capacitated VRP with time windows on OR-Tools, live fleet simulation over WebSocket, and dynamic re-sequencing when traffic breaks the plan | Python · FastAPI · React + TS · PostGIS |
-| **[Document Intelligence](https://github.com/dhanoliya-ji/Enterprise-Document-Intelligence-Assistant)** | Ask questions of a pile of documents and get answers with citations — OCR, chunking, embeddings, reranking | FastAPI · pgvector · LLMs |
-| **[Online Coding Judge](https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE)** · **[live ↗](https://crucible-web.onrender.com)** | Submit, sandbox, evaluate against test cases, run contests, rank a leaderboard — deployed as **Crucible** | FastAPI · PostgreSQL · Docker |
-| **[Cold Email Automation](https://github.com/dhanoliya-ji/hr-cold-email-automation)** | Outreach pipeline — finds recruiters, personalises per role, sends on a schedule, tracks what landed | Python · SMTP · schedulers |
+<table>
+<tr><td width="62%" valign="top">
 
-</details>
+Fraud is rarely visible in a single row. One account receiving $4,000 is
+unremarkable. Ten accounts each sending $4,000 into one account that immediately
+wires 95% of it offshore is a mule funnel. None of these are properties of a record.
+They are **properties of a shape in the network**, and that is what SentinelGraph
+looks for.
 
-<details align="center">
-<summary><b>↕︎ Also built — private repos, happy to walk you through any of them</b></summary>
-<br/>
+Built on **CognoDB** with openCypher over Bolt. The whole application rests on one
+question: does money leaving this account eventually come back to it? That has no
+fixed answer length, so the ring detector is variable-depth Cypher
+(`[:TRANSFERRED*3..5]`) instead of a recursive CTE.
 
-| Project | The one-line version | Built with |
-|---|---|---|
-| **Order Execution Engine** | Routes market orders across Solana DEXs, with queued execution and realtime fills over WebSocket | TypeScript · Fastify · BullMQ · Redis |
-| **Distributed KV Store** | In-memory key-value database written from scratch — WAL, snapshots, replication, custom query parser | C++ · TCP sockets |
-| **Meeting Intelligence** | Recordings → transcripts, summaries and action items, searchable semantically rather than by keyword | Whisper · pgvector · FastAPI |
-| **DAG Workflow Designer** | Drag-and-drop pipeline builder that validates the graph is actually a DAG before you run it | React Flow · Zustand · FastAPI |
-| **Galactic Cargo** | Warehouse allocation on AVL trees — fast insert, delete, search and capacity updates | Python · OOP · AVL trees |
+</td><td width="38%" valign="top">
 
-<sub>Private because of coursework or client rules, not because there's nothing to see.<br/>
-Ask and I'll give you a read-only invite or a walkthrough.</sub>
+**Shapes, not rows**
+### `*3..5`
+one line of Cypher replaces a recursive CTE
 
-</details>
+Mule funnels · laundering rings · fraud farms
+<br/>Risk scoring over graph structure
 
-<p align="center">
-  <a href="https://github.com/dhanoliya-ji?tab=repositories"><b>See all repositories →</b></a>
-</p>
-
-<br/>
-
-<!-- ░░░ 3D: a wireframe surface with a wave travelling across it ░░░ -->
-<p align="center">
-  <img width="92%" src="assets/mesh-3d-light.svg#gh-light-mode-only" alt="An animated 3D wireframe surface"/>
-  <img width="92%" src="assets/mesh-3d-dark.svg#gh-dark-mode-only" alt="An animated 3D wireframe surface"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center" id="what-i-work-with">WHAT I WORK WITH</h2>
-
-<!-- ░░░ 3D: the stack as a rotating sphere of words ░░░ -->
-<p align="center">
-  <img width="88%" src="assets/sphere-3d-light.svg#gh-light-mode-only" alt="The stack I work with, on a sphere rotating in 3D"/>
-  <img width="88%" src="assets/sphere-3d-dark.svg#gh-dark-mode-only" alt="The stack I work with, on a sphere rotating in 3D"/>
-</p>
-
-<p align="center"><sub><b>LANGUAGES</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js&perline=4" alt="languages"/>
-</p>
-
-<p align="center"><sub><b>BACKEND &amp; DATA</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,redis,mongodb&perline=6" alt="backend"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square"/>
-  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CognoDB%20%2F%20openCypher-6366f1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/WebSockets-0ea5e9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
-
-<p align="center"><sub><b>FRONTEND</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&perline=5" alt="frontend"/>
-</p>
-
-<p align="center"><sub><b>AI / ML</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&perline=3" alt="ai"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs%20%C2%B7%20RAG-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/embeddings%20%C2%B7%20reranking-0ea5e9?style=flat-square"/>
-</p>
-
-<p align="center"><sub><b>INFRA</b></sub></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vercel,nginx&perline=6" alt="infra"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">HOW I BUILD</h2>
-
-<table align="center">
-<tr>
-  <td width="270" valign="top"><b>Make it correct, then make it fast</b><br/><sub>A wrong answer at 5&nbsp;ms is still wrong. Benchmarks come after the tests pass.</sub></td>
-  <td width="270" valign="top"><b>Explain every output</b><br/><sub>Scores, routes and rankings ship with the evidence that produced them.</sub></td>
-  <td width="270" valign="top"><b>Assume it will break</b><br/><sub>WALs, retries, idempotent handlers, queues. Recovery is a feature.</sub></td>
-</tr>
-<tr>
-  <td width="270" valign="top"><b>Pick the boring dependency</b><br/><sub>Postgres before a new database. A queue before a framework.</sub></td>
-  <td width="270" valign="top"><b>Automate the second time</b><br/><sub>Anything I do twice by hand becomes a script — this README included.</sub></td>
-  <td width="270" valign="top"><b>Ship, then iterate</b><br/><sub>A deployed v1 teaches more than a perfect design document.</sub></td>
-</tr>
+</td></tr>
 </table>
 
+<p>
+  <a href="https://sentinelgraph.vercel.app"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-f472b6?style=for-the-badge&logoColor=0d1117" alt="Live demo"/></a>
+  <a href="https://github.com/dhanoliya-ji/sentinelgraph"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-1a1f28?style=flat-square&logo=python&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/openCypher-1a1f28?style=flat-square&logo=neo4j&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/CognoDB-1a1f28?style=flat-square&logo=databricks&logoColor=f472b6"/>
+  <img src="https://img.shields.io/badge/Vercel-1a1f28?style=flat-square&logo=vercel&logoColor=f472b6"/>
+</p>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░ 05 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/05-64748b?style=flat-square&label=&labelColor=64748b" alt=""/>
+  &nbsp;HR Cold Email Automation &nbsp;<sub><i>outreach that doesn't look automated</i></sub>
+</h3>
 
-<h2 align="center">RECENT WORK</h2>
+Reads recruiter contacts from Excel, analyses the job role to match the right skills
+and projects, personalises greeting and location, attaches the résumé, and sends over
+Gmail SMTP with anti-spam pacing. Ships a dry-run mode, a self-test mode and an
+interactive HTML analytics dashboard.
 
-<p align="center"><sub>Updated automatically — newest pushes first.</sub></p>
+<p>
+  <a href="https://github.com/dhanoliya-ji/hr-cold-email-automation"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-1a1f28?style=flat-square&logo=python&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/pandas-1a1f28?style=flat-square&logo=pandas&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/SMTP-1a1f28?style=flat-square&logo=gmail&logoColor=94a3b8"/>
+</p>
+
+<br/>
+
+<!-- ░░ 06 ░░ -->
+<h3>
+  <img src="https://img.shields.io/badge/06-64748b?style=flat-square&label=&labelColor=64748b" alt=""/>
+  &nbsp;Portfolio &nbsp;<sub><i>the site this all links to</i></sub>
+</h3>
+
+An interactive 3D portfolio in React 19, Vite and Tailwind, with a react-three-fiber
+hero that tracks the cursor, Framer Motion scroll reveals and Lenis inertial
+scrolling. Deployed free on GitHub Pages.
+
+<p>
+  <a href="https://dhanoliya-ji.github.io"><img src="https://img.shields.io/badge/▶_VISIT-8b5cf6?style=for-the-badge&logoColor=0d1117" alt="Visit"/></a>
+  <a href="https://github.com/dhanoliya-ji/dhanoliya-ji.github.io"><img src="https://img.shields.io/badge/SOURCE-0d1117?style=for-the-badge&logo=github" alt="Source"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-1a1f28?style=flat-square&logo=react&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Three.js-1a1f28?style=flat-square&logo=threedotjs&logoColor=94a3b8"/>
+  <img src="https://img.shields.io/badge/Tailwind-1a1f28?style=flat-square&logo=tailwindcss&logoColor=94a3b8"/>
+</p>
+
+<br/>
+
+<img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
+<img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">◈ &nbsp; T H E &nbsp; S T A C K &nbsp; ◈</h2>
+
+<p align="center"><i>Roughly the path a request takes through the things I build.</i></p>
+
+<p align="center">
+  <img width="96%" src="assets/neon-pipeline-dark.svg#gh-dark-mode-only" alt="Ingest, embed, index, solve, serve"/>
+  <img width="96%" src="assets/neon-pipeline-light.svg#gh-light-mode-only" alt="Ingest, embed, index, solve, serve"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,fastapi,react,nextjs,tailwind&theme=dark" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,linux,git,github,vercel&theme=dark" alt="Data and infrastructure"/>
+</p>
+
+<p align="center">
+  <sub>
+    <b>Backend</b> REST design · WebSockets · async I/O · Celery · auth &amp; multi-tenant access control &nbsp;·&nbsp;
+    <b>Data</b> PostgreSQL · PostGIS · pgvector · Redis · GiST &amp; HNSW indexing<br/>
+    <b>AI/ML</b> OR-Tools · RAG · sentence-transformers · vector search · Llama 3.3 on Groq · Tesseract OCR · OpenCV &amp; dlib &nbsp;·&nbsp;
+    <b>Infra</b> Docker · container sandboxing · EC2 · Nginx &amp; TLS · GitHub Actions
+  </sub>
+</p>
+
+<br/>
+
+<img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
+<img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">◈ &nbsp; T H E &nbsp; A R E N A &nbsp; ◈</h2>
+
+<p align="center">
+  <i>Competitive programming is where the instinct for complexity and edge cases comes from.</i>
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-Specialist_·_1500%2B-22d3ee?style=for-the-badge&logo=codeforces&logoColor=0d1117" alt="Codeforces"/></a>
+  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef-4★_·_1800%2B-c3f53c?style=for-the-badge&logo=codechef&logoColor=0d1117" alt="CodeChef"/></a>
+  <a href="https://leetcode.com/u/dhanoliya/"><img src="https://img.shields.io/badge/LeetCode-dhanoliya-f472b6?style=for-the-badge&logo=leetcode&logoColor=0d1117" alt="LeetCode"/></a>
+  <br/>
+  <img src="https://img.shields.io/badge/1000%2B_problems_solved_across_platforms-8b5cf6?style=for-the-badge" alt="1000+ solved"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://leetcard.jacoblin.cool/dhanoliya?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats"/>
+</p>
+
+<br/>
+
+<img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
+<img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">◈ &nbsp; T H E &nbsp; N U M B E R S &nbsp; ◈</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=8b5cf6&text_color=94a3b8#gh-dark-mode-only" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=94a3b8&langs_count=8#gh-dark-mode-only" alt="Top languages"/>
+</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=7c3aed&text_color=475569#gh-light-mode-only" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&bg_color=00000000&title_color=0891b2&text_color=475569&langs_count=8#gh-light-mode-only" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b#gh-dark-mode-only" alt="Streak"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=0891b2&fire=db2777&currStreakLabel=0891b2&sideLabels=475569&dates=94a3b8#gh-light-mode-only" alt="Streak"/>
+</p>
+
+<!-- ░░ a year of commits, chewed through by a snake ░░ -->
+<p align="center">
+  <img width="94%" src="assets/snake-dark.svg#gh-dark-mode-only" alt="Snake eating my contribution graph"/>
+  <img width="94%" src="assets/snake-light.svg#gh-light-mode-only" alt="Snake eating my contribution graph"/>
+</p>
+
+<!-- ░░ and the same year, as an isometric city ░░ -->
+<p align="center">
+  <img width="92%" src="profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution calendar"/>
+  <img width="92%" src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D contribution calendar"/>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h3 align="center">◈ &nbsp; R E C E N T L Y &nbsp; P U S H E D &nbsp; ◈</h3>
 
 <!-- RECENT-PROJECTS:START -->
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/Enterprise-Document-Intelligence-Assistant"><b>Document Intelligence</b></a></td><td>Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with aut…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-30</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/dhanoliya-ji.github.io"><b>Dhanoliya Ji.github.io</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white" alt="TypeScript"/></td><td><sub>2026-08-30</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/DocMinds"><b>Docminds</b></a></td><td>Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with aut…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-30</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/RouteOS"><b>RouteOS</b></a> · <a href="https://routeos-frontend.onrender.com">live</a></td><td>Intelligent logistics & fleet optimization platform for multi vehicle route optimizatio…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-29</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/hr-cold-email-automation"><b>Cold Email Automation</b></a></td><td>Recruiter outreach that personalises per role, sends on a schedule and tracks replies</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-18</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE"><b>Online Coding Judge</b></a> · <a href="https://crucible-web.onrender.com">live</a></td><td>Submit, sandbox, evaluate against test cases, run contests, rank a leaderboard</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-12</sub></td></tr>
@@ -386,113 +402,24 @@ Ask and I'll give you a read-only invite or a walkthrough.</sub>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">WHEN I'M NOT SHIPPING, I'M SOLVING</h2>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/gajenx7"><img src="https://img.shields.io/badge/CodeChef-4%E2%98%85-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/DSA-1000%2B%20solved-16a34a?style=flat-square&logo=leetcode&logoColor=white"/>
-</p>
-
-<p align="center">
-  <sub>Graphs · Dynamic Programming · Trees · Greedy · Binary Search · System Design</sub>
-</p>
-
-<p align="center">
-  <sub><i>Competitive programming is where the graph algorithms in SentinelGraph and the<br/>
-  routing heuristics in RouteOS came from. It isn't a separate hobby — it's the training set.</i></sub>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">THE NUMBERS</h2>
-
-<!-- ░░░ 3D: a field of cubes riding a wave ░░░ -->
-<p align="center">
-  <img width="82%" src="assets/voxel-3d-light.svg#gh-light-mode-only" alt="A field of isometric cubes bobbing on a wave"/>
-  <img width="82%" src="assets/voxel-3d-dark.svg#gh-dark-mode-only" alt="A field of isometric cubes bobbing on a wave"/>
-</p>
-
-<!-- Always-up badges. The stats cards below come from a shared public instance
-     that is occasionally rate-limited into a 503; this row never breaks, so the
-     section still says something when that happens. -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/dhanoliya-ji?style=flat-square&logo=github&label=followers&color=0f172a"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&label=public%20repos&color=2563eb&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhanoliya-ji"/>
-  <img src="https://img.shields.io/badge/since-2023-64748b?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-1000%2B%20solved-16a34a?style=flat-square"/>
-</p>
-
-<!-- Light stats -->
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=graywhite&icon_color=2563eb&title_color=0f172a&text_color=475569&bg_color=ffffff#gh-light-mode-only" alt="stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&langs_count=8&theme=graywhite&title_color=0f172a&text_color=475569&bg_color=ffffff#gh-light-mode-only" alt="langs"/>
-</p>
-
-<!-- Dark stats -->
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dhanoliya-ji&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=tokyonight&hide_title=false#gh-dark-mode-only" alt="stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanoliya-ji&layout=compact&hide_border=true&langs_count=8&theme=tokyonight#gh-dark-mode-only" alt="langs"/>
-</p>
-
-<!-- Streak, theme-aware -->
-<p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&theme=graywhite&ring=2563EB&fire=EA580C&currStreakLabel=0F172A#gh-light-mode-only" alt="streak"/>
-  <img height="165em" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&theme=tokyonight#gh-dark-mode-only" alt="streak"/>
-</p>
-
-<br/>
-
-<!-- ░░░ 3D: the contribution calendar as an isometric city ░░░ -->
-<h3 align="center">A YEAR OF COMMITS, IN 3D</h3>
-
-<p align="center">
-  <img width="92%" src="profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D contribution calendar"/>
-  <img width="92%" src="profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution calendar"/>
-</p>
-
-<!-- ░░░ and the same data, eaten by a snake ░░░ -->
-<p align="center">
-  <img width="92%" src="assets/snake-light.svg#gh-light-mode-only" alt="Snake eating my contribution graph"/>
-  <img width="92%" src="assets/snake-dark.svg#gh-dark-mode-only" alt="Snake eating my contribution graph"/>
-</p>
-
-<!-- Activity graph, theme-aware -->
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanoliya-ji&hide_border=true&area=true&bg_color=ffffff&color=0f172a&line=2563eb&point=06b6d4&title_color=0f172a#gh-light-mode-only" alt="activity"/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhanoliya-ji&hide_border=true&area=true&theme=tokyo-night#gh-dark-mode-only" alt="activity"/>
-</p>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <details align="center">
 <summary><b>↕︎ How this page builds itself</b></summary>
 <br/>
-
 <p align="left">
 
-Nothing on this page is pasted in by hand twice.
+Nothing here is pasted in twice.
 
 | Piece | Where it comes from |
 |---|---|
-| **RECENT WORK** table | [`scripts/update_readme.py`](scripts/update_readme.py) reads the GitHub API and rewrites only the text between two HTML markers, so the hand-written parts are never touched. Runs daily. |
-| **Six hand-built 3D animations** | [`scripts/gen_3d_assets.py`](scripts/gen_3d_assets.py) projects real 3D geometry at 25–37 keyframes and bakes the frames into SMIL `<animate>` values. GitHub strips `<script>` from markdown, so the animation has to live in the geometry — the browser interpolates between projected frames. Each piece uses a deliberately different technique: perspective rotation (the **ring**), animated polyline vertices (the **wave surface**), depth-scaled `<text>` (the **tag sphere**), fixed isometric with moving payloads (the **layer stack**), a receding ground plane (the **fleet**), and one group transform per cube (the **voxel field**). Every builder asserts its geometry lands inside the viewBox, so a camera tweak can't silently clip the art. |
-| **The 3D commit calendar** | [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib), regenerated nightly. |
-| **The snake** | [`Platane/snk`](https://github.com/Platane/snk), same nightly job. |
-| **Everything theme-aware** | Two images per slot, one tagged `#gh-light-mode-only` and one `#gh-dark-mode-only`. GitHub hides the one that doesn't match your theme. |
-
-Regenerate the 3D art locally with no dependencies at all:
+| **Hero, rules and pipeline** | [`scripts/gen_neon_assets.py`](scripts/gen_neon_assets.py). Pure SMIL, no dependencies. GitHub strips `<script>` from markdown and ignores CSS `:hover` in an image, so nothing on a README can react to your cursor. What it *can* do is never stop moving: gradient stop-colours rotate through four accents, a highlight sweeps the letterforms, packets travel down the wire. Both themes are emitted from one definition. |
+| **The 3D pieces** | [`scripts/gen_3d_assets.py`](scripts/gen_3d_assets.py) projects real geometry at 25–37 keyframes and bakes the frames into SMIL, so the browser interpolates between projected frames. |
+| **RECENTLY PUSHED** | [`scripts/update_readme.py`](scripts/update_readme.py) reads the GitHub API and rewrites only the text between two markers, so the hand-written parts are never touched. Runs daily. |
+| **Commit calendar and snake** | [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) and [`Platane/snk`](https://github.com/Platane/snk), regenerated nightly. |
+| **Theme awareness** | Two images per slot, one tagged `#gh-light-mode-only` and one `#gh-dark-mode-only`. GitHub hides whichever doesn't match your theme. |
 
 ```bash
-python scripts/gen_3d_assets.py   # 12 files: 6 pieces x light/dark
+python scripts/gen_neon_assets.py   # 6 files: hero, rule, pipeline x light/dark
+python scripts/gen_3d_assets.py     # 12 files: 6 pieces x light/dark
 ```
 
 </p>
@@ -500,24 +427,36 @@ python scripts/gen_3d_assets.py   # 12 files: 6 pieces x light/dark
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">LET'S MAKE SOMETHING</h2>
-
-<p align="center">
-  <i>Got a problem worth solving? I'm always up for good stuff.<br/>
-  Graphs, distributed backends, optimisation, retrieval — those are the ones I chase.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:gajendradhanoliya01@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gajendradhanoliya-dhanoliya-813345359/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/dhanoliya-ji"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/G.Dhanoliya"><img src="https://img.shields.io/badge/Codeforces-0f172a?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-</p>
+<img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
+<img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">◈ &nbsp; L E T ' S &nbsp; T A L K &nbsp; ◈</h2>
+
 <p align="center">
-  <sub>Made with too much coffee and a soft spot for clean systems. ☕</sub>
+  <i>Open to SDE and AI/ML roles, full-time or internship, in India or internationally,<br/>
+  remote or onsite. If you're building something in backend, distributed systems<br/>
+  or applied AI, I'd like to hear about it.</i>
+</p>
+
+<p align="center">
+  <a href="https://dhanoliya-ji.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-22d3ee?style=for-the-badge&logo=firefoxbrowser&logoColor=0d1117" alt="Portfolio"/></a>
+  <a href="mailto:gajendradhanoliya01@gmail.com"><img src="https://img.shields.io/badge/EMAIL-f472b6?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/></a>
+  <a href="tel:+919109485566"><img src="https://img.shields.io/badge/+91_9109485566-c3f53c?style=for-the-badge&logo=whatsapp&logoColor=0d1117" alt="Phone"/></a>
+  <a href="https://www.linkedin.com/in/gajendra-dhanoliya-813345359/"><img src="https://img.shields.io/badge/LINKEDIN-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="https://dhanoliya-ji.github.io">dhanoliya-ji.github.io</a> &nbsp;·&nbsp;
+    gajendradhanoliya01@gmail.com &nbsp;·&nbsp;
+    +91 9109485566
+  </sub>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanoliya-ji&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
