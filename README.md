@@ -359,27 +359,39 @@ scrolling. Deployed free on GitHub Pages.
      sits at 503 for long stretches, which leaves four broken images on the
      page. profile-summary-cards and streak-stats.demolab.com both answer. -->
 <p align="center">
-  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Profile summary"/>
-  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Profile summary"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanoliya-ji&theme=github_dark"/>
+    <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanoliya-ji&theme=github" alt="Profile summary"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Repos per language"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Most committed language"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Repos per language"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Most committed language"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanoliya-ji&theme=github_dark"/>
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanoliya-ji&theme=github" alt="Repos per language"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanoliya-ji&theme=github_dark"/>
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanoliya-ji&theme=github" alt="Most committed language"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanoliya-ji&theme=github_dark#gh-dark-mode-only" alt="Stats"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanoliya-ji&theme=github_dark&utcOffset=5.5#gh-dark-mode-only" alt="Productive time"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanoliya-ji&theme=github#gh-light-mode-only" alt="Stats"/>
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanoliya-ji&theme=github&utcOffset=5.5#gh-light-mode-only" alt="Productive time"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanoliya-ji&theme=github_dark"/>
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanoliya-ji&theme=github" alt="Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanoliya-ji&theme=github_dark&utcOffset=5.5"/>
+    <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanoliya-ji&theme=github&utcOffset=5.5" alt="Productive time"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b#gh-dark-mode-only" alt="Streak"/>
-  <img height="150" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=0891b2&fire=db2777&currStreakLabel=0891b2&sideLabels=475569&dates=94a3b8#gh-light-mode-only" alt="Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=22d3ee&fire=f472b6&currStreakLabel=22d3ee&sideLabels=94a3b8&dates=64748b"/>
+    <img height="150" src="https://streak-stats.demolab.com?user=dhanoliya-ji&hide_border=true&background=00000000&ring=0891b2&fire=db2777&currStreakLabel=0891b2&sideLabels=475569&dates=94a3b8" alt="Streak"/>
+  </picture>
 </p>
 
 <!-- ░░ a year of commits, chewed through by a snake ░░ -->
