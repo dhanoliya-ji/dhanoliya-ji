@@ -416,6 +416,7 @@ scrolling. Deployed free on GitHub Pages.
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/SplitWise"><b>Splitwise</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white" alt="JavaScript"/></td><td><sub>2026-09-10</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/DocMinds"><b>Docminds</b></a></td><td>Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with aut…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-09-08</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/RouteOS"><b>RouteOS</b></a> · <a href="https://routeos-frontend.onrender.com">live</a></td><td>Intelligent logistics & fleet optimization platform for multi vehicle route optimizatio…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-09-08</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/hr-cold-email-automation"><b>Cold Email Automation</b></a></td><td>Recruiter outreach that personalises per role, sends on a schedule and tracks replies</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-08-31</sub></td></tr>
