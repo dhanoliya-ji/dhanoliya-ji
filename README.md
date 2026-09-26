@@ -416,12 +416,12 @@ scrolling. Deployed free on GitHub Pages.
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/dhanoliya-ji.github.io"><b>Dhanoliya Ji.github.io</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white" alt="HTML"/></td><td><sub>2026-09-25</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/GRIDSMITH"><b>GRIDSMITH</b></a></td><td>Deterministic table and context extraction from large, messy PDFs. Every cell is either…</td><td><img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=flat-square&logoColor=white" alt="Jupyter Notebook"/></td><td><sub>2026-09-22</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/miniredis"><b>Miniredis</b></a></td><td>A Redis-style in-memory database built from scratch in C++20 - event loop, RESP2 protoc…</td><td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white" alt="C++"/></td><td><sub>2026-09-22</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/solana-replay-engine"><b>Solana Replay Engine</b></a></td><td>Replay-based copy-trading simulator for Solana bonding-curve tokens. Measures what a co…</td><td><img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=flat-square&logoColor=white" alt="Jupyter Notebook"/></td><td><sub>2026-09-22</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/SplitWise"><b>Splitwise</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white" alt="JavaScript"/></td><td><sub>2026-09-22</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/node-pipeline-designer"><b>Node Pipeline Designer</b></a></td><td>Visual editor for node pipelines: design on a canvas, validate as a DAG, and execute. R…</td><td><img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=flat-square&logoColor=white" alt="Jupyter Notebook"/></td><td><sub>2026-09-22</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/krafton-game-project"><b>Krafton Game</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=flat-square&logoColor=white" alt="Jupyter Notebook"/></td><td><sub>2026-09-22</sub></td></tr>
 </table>
 <!-- RECENT-PROJECTS:END -->
 
