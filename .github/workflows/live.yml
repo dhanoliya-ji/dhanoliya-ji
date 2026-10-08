@@ -1,0 +1,61 @@
+name: Live cards
+
+# Rebuilds the cards that change on their own -- the New Delhi sky, the live
+# terminal, the Codeforces chart, the contribution pulse and the commit ticker
+# -- and force-pushes them as a single commit to the orphan `live` branch.
+# The README loads them from there, so refreshes every 30 minutes never touch
+# the history of the main branch.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [projects]
+    paths:
+      - scripts/gen_live_assets.py
+      - .github/workflows/live.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The last published cards carry data.json, the last good value of every
+      # source. If an API is down this run, its card is drawn from that instead.
+      - name: Fetch the previous cards
+        run: |
+          mkdir -p prev
+          if git fetch --depth=1 origin live; then
+            git archive FETCH_HEAD | tar -x -C prev
+          fi
+
+      - name: Build the cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/gen_live_assets.py --out out --prev prev
+
+      - name: Publish to the live branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd out
+          printf '# live\n\nGenerated every 30 minutes by `.github/workflows/live.yml`. Do not edit.\n' > README.md
+          git init -q -b live
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Live cards $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -qf "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" live

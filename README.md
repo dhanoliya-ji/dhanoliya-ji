@@ -36,6 +36,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=720&lines=Backend+%26+systems+engineer+%C2%B7+IIT+Delhi+EE+2026;Route+optimizers.+RAG+pipelines.+Code+sandboxes.;A+Redis+clone+in+C%2B%2B20+that+redis-cli+can+talk+to;Codeforces+Specialist+%C2%B7+CodeChef+4%E2%98%85+%C2%B7+1000%2B+solved;Open+to+SDE+and+AI%2FML+roles" alt="What I do"/>
 </p>
 
+<!-- ░░ LIVE ░░ New Delhi right now, rebuilt every 30 min by .github/workflows/live.yml ░░ -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-sky.svg" alt="The sky over New Delhi right now: time, weather and what I'm probably doing"/>
+</p>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-ticker-dark.svg#gh-dark-mode-only" alt="My latest commits, scrolling"/>
+  <img width="100%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-ticker-light.svg#gh-light-mode-only" alt="My latest commits, scrolling"/>
+</p>
+
 <img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
 <img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
 
@@ -43,7 +52,10 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; A B O U T &nbsp; M E &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-about-dark.svg#gh-dark-mode-only" alt="About me"/>
+  <img width="100%" src="assets/title-about-light.svg#gh-light-mode-only" alt="About me"/>
+</p>
 
 <table>
 <tr><td width="58%" valign="top">
@@ -85,7 +97,32 @@ fun_fact:  "Kubernetes-free & proud"
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; E X P E R I E N C E &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-live-dark.svg#gh-dark-mode-only" alt="Live from Delhi"/>
+  <img width="100%" src="assets/title-live-light.svg#gh-light-mode-only" alt="Live from Delhi"/>
+</p>
+
+<p align="center">
+  <i>Not a screenshot. This terminal is rebuilt every 30 minutes from the Codeforces,<br/>
+  LeetCode and GitHub APIs, then types itself out every time the page loads.</i>
+</p>
+
+<p align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-terminal-dark.svg#gh-dark-mode-only" alt="Live terminal: Codeforces, LeetCode and GitHub numbers"/>
+  <img width="88%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-terminal-light.svg#gh-light-mode-only" alt="Live terminal: Codeforces, LeetCode and GitHub numbers"/>
+</p>
+
+<img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
+<img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img width="100%" src="assets/title-experience-dark.svg#gh-dark-mode-only" alt="Experience"/>
+  <img width="100%" src="assets/title-experience-light.svg#gh-light-mode-only" alt="Experience"/>
+</p>
 
 <h3>
   <img src="https://img.shields.io/badge/Jun–Aug_2025-22d3ee?style=flat-square" alt=""/>
@@ -116,7 +153,10 @@ fun_fact:  "Kubernetes-free & proud"
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; W H A T &nbsp; I &nbsp; B U I L D &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-build-dark.svg#gh-dark-mode-only" alt="What I build"/>
+  <img width="100%" src="assets/title-build-light.svg#gh-light-mode-only" alt="What I build"/>
+</p>
 
 <p align="center">
   <i>Twelve systems built in depth: an optimizer, a retrieval platform, a judge, a database written from scratch,<br/>
@@ -153,12 +193,19 @@ on a private network.
 
 </td><td width="38%" valign="top">
 
-**Cut fleet distance**
-### `20–35%`
-compared with a greedy nearest-neighbour baseline on the same orders
+<p align="center">
+  <img width="100%" src="assets/metric-routeos-dark.svg#gh-dark-mode-only" alt="headline metric"/>
+  <img width="100%" src="assets/metric-routeos-light.svg#gh-light-mode-only" alt="headline metric"/>
+</p>
 
 `375 km` vs `576 km` on 100 orders, 12 vehicles
 <br/>`100%` order assignment on 50–250 order benchmarks
+
+
+<p align="center">
+  <img width="100%" src="assets/fleet-3d-dark.svg#gh-dark-mode-only" alt="Fleet driving routes in perspective"/>
+  <img width="100%" src="assets/fleet-3d-light.svg#gh-light-mode-only" alt="Fleet driving routes in perspective"/>
+</p>
 
 </td></tr>
 </table>
@@ -202,9 +249,10 @@ using only those chunks and shows the page it used.
 
 </td><td width="38%" valign="top">
 
-**Grounded, not guessed**
-### `page-level`
-citations on every answer
+<p align="center">
+  <img width="100%" src="assets/metric-docminds-dark.svg#gh-dark-mode-only" alt="headline metric"/>
+  <img width="100%" src="assets/metric-docminds-light.svg#gh-light-mode-only" alt="headline metric"/>
+</p>
 
 `19` file extensions ingested
 <br/>`384-d` local embeddings
@@ -252,9 +300,10 @@ user registers for a contest and watches the leaderboard update live.
 
 </td><td width="38%" valign="top">
 
-**Contains untrusted code**
-### `no network`
-read-only FS · non-root · hard CPU, memory and wall-clock caps
+<p align="center">
+  <img width="100%" src="assets/metric-crucible-dark.svg#gh-dark-mode-only" alt="headline metric"/>
+  <img width="100%" src="assets/metric-crucible-light.svg#gh-light-mode-only" alt="headline metric"/>
+</p>
 
 `37` REST endpoints
 <br/>`3` languages judged
@@ -301,14 +350,21 @@ redirection. It also has `MULTI/EXEC/WATCH`, pub/sub and `SLOWLOG`/`MONITOR`.
 
 </td><td width="38%" valign="top">
 
-**Speaks real RESP2**
-### `29 µs`
-p50 latency, single client
+<p align="center">
+  <img width="100%" src="assets/metric-miniredis-dark.svg#gh-dark-mode-only" alt="headline metric"/>
+  <img width="100%" src="assets/metric-miniredis-light.svg#gh-light-mode-only" alt="headline metric"/>
+</p>
 
 `148` commands implemented
 <br/>`63k` peak ops/s measured
 <br/>`16384` cluster hash slots
 <br/>Live browser console, a real TCP client
+
+
+<p align="center">
+  <img width="100%" src="assets/voxel-3d-dark.svg#gh-dark-mode-only" alt="Memory cells riding a wave"/>
+  <img width="100%" src="assets/voxel-3d-light.svg#gh-light-mode-only" alt="Memory cells riding a wave"/>
+</p>
 
 </td></tr>
 </table>
@@ -349,9 +405,10 @@ baselines extract those as data.
 
 </td><td width="38%" valign="top">
 
-**Refuses rather than guesses**
-### `0`
-silent errors across 202 labelled cells
+<p align="center">
+  <img width="100%" src="assets/metric-gridsmith-dark.svg#gh-dark-mode-only" alt="headline metric"/>
+  <img width="100%" src="assets/metric-gridsmith-light.svg#gh-light-mode-only" alt="headline metric"/>
+</p>
 
 `0.927` TEDS-Struct
 <br/>`1.000` detection F1 at IoU ≥ 0.7
@@ -395,12 +452,19 @@ every flagged account can be traced back to the exact pattern and path that rais
 
 </td><td width="38%" valign="top">
 
-**Shapes, not rows**
-### `*3..5`
-one line of Cypher replaces a recursive CTE
+<p align="center">
+  <img width="100%" src="assets/metric-sentinelgraph-dark.svg#gh-dark-mode-only" alt="headline metric"/>
+  <img width="100%" src="assets/metric-sentinelgraph-light.svg#gh-light-mode-only" alt="headline metric"/>
+</p>
 
 `4` fraud shapes: mule funnels, laundering rings, shared-device farms
 <br/>Every flag explains itself
+
+
+<p align="center">
+  <img width="100%" src="assets/ring-3d-dark.svg#gh-dark-mode-only" alt="A money-movement ring rotating in 3D"/>
+  <img width="100%" src="assets/ring-3d-light.svg#gh-light-mode-only" alt="A money-movement ring rotating in 3D"/>
+</p>
 
 </td></tr>
 </table>
@@ -419,7 +483,10 @@ one line of Cypher replaces a recursive CTE
 <br/>
 
 <!-- ░░ MORE SYSTEMS ░░ two-up cards so the page doesn't scroll forever ░░ -->
-<h3 align="center">◇ &nbsp; More systems &nbsp; ◇</h3>
+<p align="center">
+  <img width="100%" src="assets/title-more-dark.svg#gh-dark-mode-only" alt="More systems"/>
+  <img width="100%" src="assets/title-more-light.svg#gh-light-mode-only" alt="More systems"/>
+</p>
 
 <table>
 <tr>
@@ -551,7 +618,10 @@ combinations tested still lose.
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; O P E N &nbsp; S O U R C E &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-opensource-dark.svg#gh-dark-mode-only" alt="Open source"/>
+  <img width="100%" src="assets/title-opensource-light.svg#gh-light-mode-only" alt="Open source"/>
+</p>
 
 <p align="center">
   <i>Finding real defects in a large codebase you didn't write is a different skill from building your own.</i>
@@ -575,13 +645,21 @@ combinations tested still lose.
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; T H E &nbsp; S T A C K &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-stack-dark.svg#gh-dark-mode-only" alt="The stack"/>
+  <img width="100%" src="assets/title-stack-light.svg#gh-light-mode-only" alt="The stack"/>
+</p>
 
 <p align="center"><i>Roughly the path a request takes through the things I build.</i></p>
 
 <p align="center">
   <img width="96%" src="assets/neon-pipeline-dark.svg#gh-dark-mode-only" alt="Ingest, embed, index, solve, serve"/>
   <img width="96%" src="assets/neon-pipeline-light.svg#gh-light-mode-only" alt="Ingest, embed, index, solve, serve"/>
+</p>
+
+<p align="center">
+  <img width="80%" src="assets/sphere-3d-dark.svg#gh-dark-mode-only" alt="My stack as a rotating sphere of words"/>
+  <img width="80%" src="assets/sphere-3d-light.svg#gh-light-mode-only" alt="My stack as a rotating sphere of words"/>
 </p>
 
 <p align="center">
@@ -611,7 +689,10 @@ combinations tested still lose.
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; T H E &nbsp; A R E N A &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-arena-dark.svg#gh-dark-mode-only" alt="The arena"/>
+  <img width="100%" src="assets/title-arena-light.svg#gh-light-mode-only" alt="The arena"/>
+</p>
 
 <p align="center">
   <i>Competitive programming is where I learned to think about complexity and edge cases.</i>
@@ -623,6 +704,11 @@ combinations tested still lose.
   <a href="https://leetcode.com/u/dhanoliya/"><img src="https://img.shields.io/badge/LeetCode-dhanoliya-f472b6?style=for-the-badge&logo=leetcode&logoColor=0d1117" alt="LeetCode"/></a>
   <br/>
   <img src="https://img.shields.io/badge/1000%2B_problems_solved_across_platforms-8b5cf6?style=for-the-badge" alt="1000+ solved"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-rating-dark.svg#gh-dark-mode-only" alt="Codeforces rating history, drawn live"/>
+  <img width="90%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-rating-light.svg#gh-light-mode-only" alt="Codeforces rating history, drawn live"/>
 </p>
 
 | | Achievement | |
@@ -645,7 +731,15 @@ combinations tested still lose.
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; T H E &nbsp; N U M B E R S &nbsp; ◈</h2>
+<p align="center">
+  <img width="100%" src="assets/title-numbers-dark.svg#gh-dark-mode-only" alt="The numbers"/>
+  <img width="100%" src="assets/title-numbers-light.svg#gh-light-mode-only" alt="The numbers"/>
+</p>
+
+<p align="center">
+  <img width="94%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-pulse-dark.svg#gh-dark-mode-only" alt="Last 60 days of contributions as a live equalizer"/>
+  <img width="94%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-pulse-light.svg#gh-light-mode-only" alt="Last 60 days of contributions as a live equalizer"/>
+</p>
 
 <!-- github-readme-stats.vercel.app is used everywhere but its shared instance
      sits at 503 for long stretches, which leaves four broken images on the
@@ -702,7 +796,10 @@ combinations tested still lose.
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h3 align="center">◈ &nbsp; R E C E N T L Y &nbsp; P U S H E D &nbsp; ◈</h3>
+<p align="center">
+  <img width="100%" src="assets/title-recent-dark.svg#gh-dark-mode-only" alt="Recently pushed"/>
+  <img width="100%" src="assets/title-recent-light.svg#gh-light-mode-only" alt="Recently pushed"/>
+</p>
 
 <!-- RECENT-PROJECTS:START -->
 <!-- This block is generated. Do not edit by hand. -->
@@ -729,6 +826,8 @@ Nothing on this page is pasted in twice.
 | Piece | Where it comes from |
 |---|---|
 | **Hero, rules and pipeline** | [`scripts/gen_neon_assets.py`](scripts/gen_neon_assets.py). Pure SMIL, no dependencies. GitHub strips `<script>` from markdown and ignores CSS `:hover` inside an image, so nothing in a README can react to your cursor. What it *can* do is keep moving: gradient stop colours rotate through four accents, a highlight sweeps across the letters, and packets travel down the wire. Both themes come from one definition. |
+| **Section titles and counters** | [`scripts/gen_motion_assets.py`](scripts/gen_motion_assets.py). Letters rise in one by one, a wave ripples through them, the fill cycles through the accents and an RGB-split glitch fires now and then. Headline numbers sit on odometers that roll each digit into place. |
+| **Live cards** | [`scripts/gen_live_assets.py`](scripts/gen_live_assets.py), run every 30 minutes by [`live.yml`](.github/workflows/live.yml) and force-pushed to the orphan `live` branch so the refreshes never pile up in history. The New Delhi sky follows the real clock, sunrise and weather; the terminal, Codeforces chart, contribution pulse and commit ticker read the Codeforces, LeetCode and GitHub APIs. If a source is down, the last good value is reused. |
 | **The 3D pieces** | [`scripts/gen_3d_assets.py`](scripts/gen_3d_assets.py) projects real geometry at 25–37 keyframes and bakes the frames into SMIL, so the browser interpolates between projected frames. |
 | **RECENTLY PUSHED** | [`scripts/update_readme.py`](scripts/update_readme.py) reads the GitHub API and rewrites only the text between two markers, so the hand-written parts are never touched. Runs daily. |
 | **Commit calendar and snake** | [`github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) and [`Platane/snk`](https://github.com/Platane/snk), regenerated nightly. |
@@ -737,6 +836,8 @@ Nothing on this page is pasted in twice.
 ```bash
 python scripts/gen_neon_assets.py   # 6 files: hero, rule, pipeline x light/dark
 python scripts/gen_3d_assets.py     # 12 files: 6 pieces x light/dark
+python scripts/gen_motion_assets.py # 34 files: 11 titles + 6 counters x light/dark
+python scripts/gen_live_assets.py --out live-out   # what the live branch holds
 ```
 
 </p>
@@ -751,7 +852,15 @@ python scripts/gen_3d_assets.py     # 12 files: 6 pieces x light/dark
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">◈ &nbsp; L E T ' S &nbsp; T A L K &nbsp; ◈</h2>
+<p align="center">
+  <img width="90%" src="assets/mesh-3d-dark.svg#gh-dark-mode-only" alt="A wave crossing a wireframe surface"/>
+  <img width="90%" src="assets/mesh-3d-light.svg#gh-light-mode-only" alt="A wave crossing a wireframe surface"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/title-talk-dark.svg#gh-dark-mode-only" alt="Let's talk"/>
+  <img width="100%" src="assets/title-talk-light.svg#gh-light-mode-only" alt="Let's talk"/>
+</p>
 
 <p align="center">
   <i>I'm open to SDE and AI/ML roles, full-time or internship, in India or abroad, remote or onsite.<br/>
@@ -778,3 +887,6 @@ python scripts/gen_3d_assets.py     # 12 files: 6 pieces x light/dark
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanoliya-ji&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+<!-- ░░ footer ░░ a wave that never settles ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,35:8b5cf6,70:f472b6,100:c3f53c&height=130&section=footer&animation=twinkling" alt=""/>

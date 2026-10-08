@@ -344,8 +344,9 @@ def mesh_svg(theme: str, columns: int = 17, rows: int = 9, frames: int = 24,
 
 SKILLS = [
     "Python", "C++", "TypeScript", "FastAPI", "Postgres", "Redis", "React",
-    "Docker", "PostGIS", "pgvector", "BullMQ", "WebSockets", "OR-Tools",
-    "openCypher", "RAG", "Whisper", "Fastify", "Nginx", "Linux", "PyTorch",
+    "Docker", "PostGIS", "pgvector", "Celery", "WebSockets", "OR-Tools",
+    "openCypher", "RAG", "C#/.NET", "Next.js", "Nginx", "Linux", "OpenCV",
+    "AWS", "SQL", "FreeRTOS",
 ]
 
 
