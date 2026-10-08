@@ -567,7 +567,9 @@ def terminal_svg(theme: Theme, cf, lc, gh, commits) -> str:
         y = y0 + i * lh * 2
         parts.append(
             f'<text x="{x0}" y="{y}" font-family="{MONO}" font-size="{fs}" font-weight="700" '
-            f'fill="{theme.neon[3 if theme.dark else 3]}">{prompt}</text>'
+            f'fill="{theme.neon[3]}">{prompt}'
+            f'<animate attributeName="opacity" values="0;1;0" calcMode="discrete" '
+            f'keyTimes="0;{start / cycle:.4f};0.985" dur="{cycle}s" repeatCount="indefinite"/></text>'
             f'<text x="{x0 + 18}" y="{y}" font-family="{MONO}" font-size="{fs}" fill="{theme.ink}" '
             f'clip-path="url(#c{i})">{esc(cmd)}</text>'
         )
@@ -587,9 +589,9 @@ def terminal_svg(theme: Theme, cf, lc, gh, commits) -> str:
             f'<rect x="{x0 + 18}" y="{y - 14}" width="9" height="18" fill="{theme.neon[0]}" opacity="0">'
             f'<animate attributeName="x" values="{x0 + 18};{x0 + 18};{x0 + 18 + w:.0f};{x0 + 18 + w:.0f}" '
             f'keyTimes="0;{k1:.4f};{k2:.4f};1" dur="{cycle}s" repeatCount="indefinite"/>'
-            f'<animate attributeName="opacity" values="0;0.85;0.85;0;0" '
-            f'keyTimes="0;{k1:.4f};{k3:.4f};{min(k3 + 0.001, 0.999):.4f};1" dur="{cycle}s" '
-            'repeatCount="indefinite"/></rect>'
+            # Discrete, so the cursor switches on exactly when its line starts.
+            f'<animate attributeName="opacity" values="0;0.85;0" calcMode="discrete" '
+            f'keyTimes="0;{k1:.4f};{k3:.4f}" dur="{cycle}s" repeatCount="indefinite"/></rect>'
         )
 
     # Final prompt with a blinking cursor, shown after the last line.
