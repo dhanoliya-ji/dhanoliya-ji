@@ -112,6 +112,11 @@ fun_fact:  "Kubernetes-free & proud"
   <img width="88%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-terminal-light.svg#gh-light-mode-only" alt="Live terminal: Codeforces, LeetCode and GitHub numbers"/>
 </p>
 
+<p align="center">
+  <img width="88%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-globe-dark.svg#gh-dark-mode-only" alt="A dot-matrix Earth spinning in 3D, lit by the real sun, with New Delhi and the ISS marked"/>
+  <img width="88%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-globe-light.svg#gh-light-mode-only" alt="A dot-matrix Earth spinning in 3D, lit by the real sun, with New Delhi and the ISS marked"/>
+</p>
+
 <img src="assets/neon-rule-dark.svg#gh-dark-mode-only" width="100%" alt=""/>
 <img src="assets/neon-rule-light.svg#gh-light-mode-only" width="100%" alt=""/>
 
@@ -167,6 +172,12 @@ fun_fact:  "Kubernetes-free & proud"
 <p align="center">
   <sub>▶ Live demos run on a free tier, so the first request can take about 30 seconds while the server wakes up.</sub>
 </p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-galaxy-dark.svg#gh-dark-mode-only" alt="Commit replay: each repo is a planet on a 3D orbit and each commit from the last month lands on it"/>
+  <img width="100%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-galaxy-light.svg#gh-light-mode-only" alt="Commit replay: each repo is a planet on a 3D orbit and each commit from the last month lands on it"/>
+</p>
+<p align="center"><sub><i>A replay of my real commits from the last few weeks, rebuilt every 30 minutes. Each repo is a planet; planet size is how much I pushed to it.</i></sub></p>
 
 <br/>
 
@@ -741,6 +752,11 @@ combinations tested still lose.
   <img width="94%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-pulse-light.svg#gh-light-mode-only" alt="Last 60 days of contributions as a live equalizer"/>
 </p>
 
+<p align="center">
+  <img width="94%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-helix-dark.svg#gh-dark-mode-only" alt="182 days of contributions wound into a rotating double helix"/>
+  <img width="94%" src="https://raw.githubusercontent.com/dhanoliya-ji/dhanoliya-ji/live/live-helix-light.svg#gh-light-mode-only" alt="182 days of contributions wound into a rotating double helix"/>
+</p>
+
 <!-- github-readme-stats.vercel.app is used everywhere but its shared instance
      sits at 503 for long stretches, which leaves four broken images on the
      page. profile-summary-cards and streak-stats.demolab.com both answer. -->
@@ -827,6 +843,7 @@ Nothing on this page is pasted in twice.
 |---|---|
 | **Hero, rules and pipeline** | [`scripts/gen_neon_assets.py`](scripts/gen_neon_assets.py). Pure SMIL, no dependencies. GitHub strips `<script>` from markdown and ignores CSS `:hover` inside an image, so nothing in a README can react to your cursor. What it *can* do is keep moving: gradient stop colours rotate through four accents, a highlight sweeps across the letters, and packets travel down the wire. Both themes come from one definition. |
 | **Section titles and counters** | [`scripts/gen_motion_assets.py`](scripts/gen_motion_assets.py). Letters rise in one by one, a wave ripples through them, the fill cycles through the accents and an RGB-split glitch fires now and then. Headline numbers sit on odometers that roll each digit into place. |
+| **Live 3D** | [`scripts/gen_live3d_assets.py`](scripts/gen_live3d_assets.py), in the same 30-minute run. A dot-matrix Earth lit by the real sun with the ISS where it actually is, a 3D commit-galaxy replay of the last month, and a contribution double helix. A point turning about an axis moves in simple harmonic motion, which SMIL can reproduce from three values with a sine-shaped spline, so each piece stays a few hundred KB and loops forever. |
 | **Live cards** | [`scripts/gen_live_assets.py`](scripts/gen_live_assets.py), run every 30 minutes by [`live.yml`](.github/workflows/live.yml) and force-pushed to the orphan `live` branch so the refreshes never pile up in history. The New Delhi sky follows the real clock, sunrise and weather; the terminal, Codeforces chart, contribution pulse and commit ticker read the Codeforces, LeetCode and GitHub APIs. If a source is down, the last good value is reused. |
 | **The 3D pieces** | [`scripts/gen_3d_assets.py`](scripts/gen_3d_assets.py) projects real geometry at 25–37 keyframes and bakes the frames into SMIL, so the browser interpolates between projected frames. |
 | **RECENTLY PUSHED** | [`scripts/update_readme.py`](scripts/update_readme.py) reads the GitHub API and rewrites only the text between two markers, so the hand-written parts are never touched. Runs daily. |

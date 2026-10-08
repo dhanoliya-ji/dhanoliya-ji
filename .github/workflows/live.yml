@@ -2,8 +2,9 @@ name: Live cards
 
 # Rebuilds the cards that change on their own -- the New Delhi sky, the live
 # terminal, the Codeforces chart, the contribution pulse and the commit ticker
-# -- and force-pushes them as a single commit to the orphan `live` branch.
-# The README loads them from there, so refreshes every 30 minutes never touch
+# -- plus the 3D pieces (a spinning Earth, a commit-galaxy replay and a
+# contribution helix), and force-pushes them as a single commit to the orphan
+# `live` branch. The README loads them from there, so refreshes every 30 minutes never touch
 # the history of the main branch.
 on:
   schedule:
@@ -13,6 +14,7 @@ on:
     branches: [projects]
     paths:
       - scripts/gen_live_assets.py
+      - scripts/gen_live3d_assets.py
       - .github/workflows/live.yml
 
 permissions:
@@ -45,7 +47,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-        run: python scripts/gen_live_assets.py --out out --prev prev
+        run: |
+          python scripts/gen_live_assets.py   --out out --prev prev
+          python scripts/gen_live3d_assets.py --out out --prev prev
 
       - name: Publish to the live branch
         env:
