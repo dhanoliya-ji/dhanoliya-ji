@@ -821,12 +821,12 @@ combinations tested still lose.
 <!-- This block is generated. Do not edit by hand. -->
 <table align="center">
 <tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Updated</th></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/ONLINE-CODING-JUDGE"><b>Online Coding Judge</b></a> · <a href="https://crucible-web.onrender.com">live</a></td><td>Online coding judge that compiles, sandboxes and grades untrusted Python, C++ and Java…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-10-16</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/DOCMINDS"><b>DOCMINDS</b></a> · <a href="https://docminds-dhanoliya.vercel.app">live</a></td><td>Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with aut…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-10-16</sub></td></tr>
+<tr><td><a href="https://github.com/dhanoliya-ji/ROUTE-OPTIMIZATION-SYSTEM"><b>ROUTE OPTIMIZATION SYSTEM</b></a> · <a href="https://routeos-frontend.onrender.com">live</a></td><td>Intelligent logistics & fleet optimization platform for multi vehicle route optimizatio…</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-10-16</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/Veyvo"><b>Veyvo</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white" alt="TypeScript"/></td><td><sub>2026-10-15</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/team-mcp-gateway"><b>Team Mcp Gateway</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white" alt="JavaScript"/></td><td><sub>2026-10-13</sub></td></tr>
 <tr><td><a href="https://github.com/dhanoliya-ji/HR-COLD-EMAIL-AUTOMATION"><b>HR COLD EMAIL AUTOMATION</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python"/></td><td><sub>2026-10-08</sub></td></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/PropertyScan-AI"><b>Propertyscan AI</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/Jupyter%20Notebook-64748B?style=flat-square&logoColor=white" alt="Jupyter Notebook"/></td><td><sub>2026-10-04</sub></td></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/Fresh-Grocery-Website"><b>Fresh Grocery Website</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logoColor=white" alt="JavaScript"/></td><td><sub>2026-09-26</sub></td></tr>
-<tr><td><a href="https://github.com/dhanoliya-ji/dhanoliya-ji.github.io"><b>Dhanoliya Ji.github.io</b></a></td><td>—</td><td><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white" alt="HTML"/></td><td><sub>2026-09-25</sub></td></tr>
 </table>
 <!-- RECENT-PROJECTS:END -->
 
